@@ -38,7 +38,6 @@ Follow us on your favorite platforms for updates, news, and community discussion
 - **[Hashnode](https://gbti.hashnode.dev/)**
 - **[Discord Community](https://gbti.network)**
 - **[Reddit Community](https://www.reddit.com/r/GBTI_network)**
-
 ---
 
 Thank you for supporting open source software! 🙏
