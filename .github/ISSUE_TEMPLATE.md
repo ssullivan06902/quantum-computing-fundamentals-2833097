@@ -5,6 +5,8 @@ BEFORE POSTING YOUR ISSUE:
 - Be specific: Add as much detail as possible.
 -->
 
+# Issue Template
+
 ## Issue Overview
 <!-- A brief overview of the issue --->
 
